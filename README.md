@@ -1,1 +1,1 @@
-# Boolean indexin on numpy arrays
+# Boolean indexing on numpy arrays
